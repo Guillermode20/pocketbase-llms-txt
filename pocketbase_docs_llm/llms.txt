@@ -1,0 +1,45 @@
+# PocketBase Documentation Index for LLM
+# Format: filename.md: Page Title/Description
+
+api-records.md: Web APIs reference - API Records - Docs - PocketBase
+api-rules-and-filters.md: Introduction - API rules and filters - Docs - PocketBase
+authentication.md: Introduction - Authentication - Docs - PocketBase
+collections.md: Introduction - Collections - Docs - PocketBase
+files-handling.md: Introduction - Files upload and handling - Docs - PocketBase
+go-collections.md: Extend with Go - Collection operations - Docs - PocketBase
+go-console-commands.md: Extend with Go - Console commands - Docs - PocketBase
+go-database.md: Extend with Go - Database - Docs - PocketBase
+go-event-hooks.md: Extend with Go - Event hooks - Docs - PocketBase
+go-filesystem.md: Extend with Go - Filesystem - Docs - PocketBase
+go-jobs-scheduling.md: Extend with Go - Jobs scheduling - Docs - PocketBase
+go-logging.md: Extend with Go - Logging - Docs - PocketBase
+go-migrations.md: Extend with Go - Migrations - Docs - PocketBase
+go-miscellaneous.md: Extend with Go - Miscellaneous - Docs - PocketBase
+go-overview.md: Extend with Go - Overview - Docs - PocketBase
+go-realtime.md: Extend with Go - Realtime messaging - Docs - PocketBase
+go-record-proxy.md: Extend with Go - Record proxy - Docs - PocketBase
+go-records.md: Extend with Go - Record operations - Docs - PocketBase
+go-rendering-templates.md: Extend with Go - Rendering templates - Docs - PocketBase
+go-routing.md: Extend with Go - Routing - Docs - PocketBase
+go-sending-emails.md: Extend with Go - Sending emails - Docs - PocketBase
+go-testing.md: Extend with Go - Testing - Docs - PocketBase
+going-to-production.md: Going to production - Docs - PocketBase
+how-to-use.md: Introduction - How to use PocketBase - Docs - PocketBase
+index.md: Introduction - Docs - PocketBase
+js-collections.md: Extend with JavaScript - Collection operations - Docs - PocketBase
+js-console-commands.md: Extend with JavaScript - Console commands - Docs - PocketBase
+js-database.md: Extend with JavaScript - Database - Docs - PocketBase
+js-event-hooks.md: Extend with JavaScript - Event hooks - Docs - PocketBase
+js-filesystem.md: Extend with JavaScript - Filesystem - Docs - PocketBase
+js-jobs-scheduling.md: Extend with JavaScript - Jobs scheduling - Docs - PocketBase
+js-logging.md: Extend with JavaScript - Logging - Docs - PocketBase
+js-migrations.md: Extend with JavaScript - Migrations - Docs - PocketBase
+js-overview.md: Extend with JavaScript - Overview - Docs - PocketBase
+js-realtime.md: Extend with JavaScript - Realtime messaging - Docs - PocketBase
+js-records.md: Extend with JavaScript - Record operations - Docs - PocketBase
+js-rendering-templates.md: Extend with JavaScript - Rendering templates - Docs - PocketBase
+js-routing.md: Extend with JavaScript - Routing - Docs - PocketBase
+js-sending-emails.md: Extend with JavaScript - Sending emails - Docs - PocketBase
+js-sending-http-requests.md: Extend with JavaScript - Sending HTTP requests - Docs - PocketBase
+use-as-framework.md: Introduction - Extending PocketBase - Docs - PocketBase
+working-with-relations.md: Introduction - Working with relations - Docs - PocketBase
